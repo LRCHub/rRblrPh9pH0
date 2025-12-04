@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "化粧",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-04T18:54:25.171711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "化粧",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/01_化粧_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "化粧",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/02_化粧_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "化粧 - Keshou",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/03_化粧_-_Keshou_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "化粧",
+      "artist": "Hiroji Miyamoto",
+      "has_synced": true,
+      "path": "select/04_化粧_Hiroji_Miyamoto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "化粧 - Keshou",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/05_化粧_-_Keshou_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "化粧",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_化粧_My_Hair_is_Bad.txt"
+    }
+  ]
+}
